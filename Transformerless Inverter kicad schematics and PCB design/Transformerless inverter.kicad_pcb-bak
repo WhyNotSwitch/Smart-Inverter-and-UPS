@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 20)
+    (drawings 22)
     (tracks 464)
     (zones 0)
     (modules 40)
@@ -2320,6 +2320,8 @@
     )
   )
 
+  (gr_line (start 257.81 77.47) (end 257.81 67.31) (layer F.CrtYd) (width 0.05))
+  (gr_line (start 281.94 92.71) (end 281.94 77.47) (layer F.CrtYd) (width 0.05))
   (gr_line (start 281.94 119.38) (end 298.45 119.38) (layer F.CrtYd) (width 0.05))
   (gr_line (start 358.14 77.47) (end 358.14 93.98) (layer Dwgs.User) (width 0.15))
   (gr_line (start 271.78 224.79) (end 271.78 250.19) (layer Dwgs.User) (width 0.15))
